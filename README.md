@@ -1,6 +1,6 @@
 docsplit-osx-installer
 ======================
-Install docsplit on macOS
+Install [docsplit](https://documentcloud.github.io/docsplit/) on macOS
 
 
 *tested on Catalina 10.15.7*
