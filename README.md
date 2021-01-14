@@ -8,7 +8,7 @@ Install [docsplit](https://documentcloud.github.io/docsplit/) on macOS
 ## EZ Install
 ```sh
 git clone \
-https://github.com/daxxog/docsplit-osx-installer.git \
+https://github.com/wildcardcorp/docsplit-osx-installer.git \
 && cd docsplit-osx-installer \
 && ./install.sh
 ```
